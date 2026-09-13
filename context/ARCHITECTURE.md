@@ -8,7 +8,7 @@
 | --------- | ----------------------------------- | ----------------------------------------------------------- |
 | Framework | Next.js (App Router) + TypeScript   | Frontend, API, and the assistant loop in one repo           |
 | Hosting   | Vercel                              | Deploy, HTTPS by default, PWA delivery                      |
-| UI        | Mobile-first PWA (framework TBD)     | Phone-first screens; component/styling choice open          |
+| UI        | Mobile-first PWA (React)     | Phone-first screens; component/styling choice open          |
 | Auth      | Clerk                               | Sign-in, prebuilt components, Vercel-native                 |
 | Database  | Neon (Postgres) + Drizzle ORM       | Users, tasks, check-ins, area weights                       |
 | AI        | OpenAI API (tool calling)           | Assistant that runs the feature tools, server-side          |
